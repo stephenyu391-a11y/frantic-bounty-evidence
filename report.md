@@ -1,0 +1,3 @@
+- **Tried:** Installed Nameclick from the official Chrome Web Store (extension ID `hnknkbjoidfdjocmdjjfchiggmgmcojl`) and performed a lookup for Dinesh Dhanoki at approximately 03:55–03:59 UTC on November 17, 2026.
+- **Outcome:** Nameclick displayed "No email on record" for the selected person.
+- **Observation:** The result card displayed the person's name, professional role, and company information even though no email address was available.
