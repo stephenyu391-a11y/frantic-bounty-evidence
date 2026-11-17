@@ -1,3 +1,3 @@
-- **Tried:** Installed Nameclick from the official Chrome Web Store (extension ID `hnknkbjoidfdjocmdjjfchiggmgmcojl`) and performed a lookup for Dinesh Dhanoki at approximately 03:55–03:59 UTC on November 17, 2026.
-- **Outcome:** Nameclick displayed "No email on record" for the selected person.
-- **Observation:** The result card displayed the person's name, professional role, and company information even though no email address was available.
+- **Tried:** Installed Nameclick from the official Chrome Web Store and used the extension to look up Marco Ciavarella by pasting his LinkedIn profile URL, `https://www.linkedin.com/in/marco-ciavarella-mcrcv`, and clicking Find email on November 17, 2026, approximately 04:25–04:45 UTC.
+- **Outcome:** Nameclick returned Marco Ciavarella, Co-Founder & CEO at Exmergo, with an email result marked Verified.
+- **Observation:** The Nameclick History panel showed both Marco Ciavarella and my earlier lookup of Dinesh Dhanoki. The history allows previously found contacts to be reopened without another lookup.
